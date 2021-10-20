@@ -1,0 +1,21 @@
+name:                deriving-distributed
+version:             0.1.0.0
+github:              granule-project/deriving-distributed-linear-haskell
+license:             BSD3
+author:              Michael Vollmer, Jack Hughes, Dominic Orchard
+copyright:           2021 authors
+
+extra-source-files:
+- README.md
+- ChangeLog.md
+
+description:         Please see the README on GitHub at <https://github.com/granule-project/deriving-distributed-linear-haskell#readme>
+
+dependencies:
+- base >= 4.7 && < 5
+- template-haskell
+- ghc-prim
+- linear-base
+
+library:
+  source-dirs: src

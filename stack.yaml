@@ -1,0 +1,8 @@
+resolver: nightly-2021-06-21
+
+packages:
+- '.'
+
+extra-deps:
+- git: https://github.com/tweag/linear-base.git
+  commit: c66d2c4f99433f4d7e1ee07f06956057450ec492

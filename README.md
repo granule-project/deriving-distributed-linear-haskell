@@ -1,1 +1,1 @@
-# deriving-distributed-linear-haskell
+# deriving-distributed
